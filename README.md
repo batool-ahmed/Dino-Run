@@ -1,3 +1,2 @@
 # Dino-Run
-A 3D Hyper-Casual Game developed on Unity using C++
-
+A 3D Hyper-casual mobile game developed using C++ on Unity during the Mindstorm Studios Fellowship Program 2022.
